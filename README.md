@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Eu sou o Guilherme Teixeira, sou um programador front and, Tenho experiencia como Estágiario e Desenvolvedor junior.
+ I'm Guilherme Teixeira, a front-end developer focused on creating clean, responsive, and user-friendly interfaces. I’ve gained practical experience working as an intern and junior developer.
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
